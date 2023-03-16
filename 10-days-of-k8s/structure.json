@@ -1,0 +1,11 @@
+{
+    "title": "Day 1 - Cluster Architecture",
+    "description": "Day 1 of 10 days of learning Kubernetes, starting with Architecture!",
+    "items": [
+      {
+        "path": "day-1-architecture",
+        "title": "Studying the Architecutre of Kubernetes",
+        "description": "Learn the architecture and perform some kubectl commands"
+      }
+    ]
+  }
