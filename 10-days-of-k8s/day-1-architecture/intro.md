@@ -9,7 +9,7 @@ The Kubernetes cluster consists of two main components. The control plane compon
 
 Kubernetes (and the containers running within) solves the problem of computers being constantly underutilized, and software becoming immutable and extremely hard to reproduce.
 
-### DIAGRAM
+### CLUSTER ARCHITECTURE - DIAGRAM
 
 ![Scan results](./assets/cluster-arch-card.png)
 
