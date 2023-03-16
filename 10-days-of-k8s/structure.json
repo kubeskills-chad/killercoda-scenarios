@@ -1,6 +1,6 @@
 {
-    "title": "Day 1 - Cluster Architecture",
-    "description": "Day 1 of 10 days of learning Kubernetes, starting with Architecture!",
+    "title": "10 Days of Kubernetes",
+    "description": "Learning Kubernetes in 10 days - 10 Day mini-course",
     "items": [
       {
         "path": "day-1-architecture",
